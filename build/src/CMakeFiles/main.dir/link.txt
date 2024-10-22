@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main   -L/home/z/path_planning/dijkstra/include  -Wl,-rpath,/home/z/path_planning/dijkstra/include /usr/lib/x86_64-linux-gnu/libpython3.10.so 
